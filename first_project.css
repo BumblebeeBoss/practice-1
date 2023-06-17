@@ -1,0 +1,116 @@
+.nav{
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+    height:137px;
+    gap: 20px;
+}
+.forent h1{
+    color: white;
+    width: 159px;
+    height:72;
+    margin-top: 27px;
+    margin-left: 59px;
+
+    Font-family: Poppins;
+    Font-style:Bold;
+    Font-size: 48px;
+    Line-height: 72px;
+    Line-height: 100%;
+    Align:Left;
+    Vertical-align:Top;
+}
+/* .search{
+    margin-top:33px;
+    margin-bottom: 51px;
+    padding: auto;
+    width:597px;
+    height: 53px;
+    background-color:#262626;
+    border-radius: 15px;
+} */
+.search{
+    background-color:#262626;
+    border-radius: 15px;
+    width:597px;
+    height: 32px;
+    /* height: 28px;
+    width: 75px; */
+    margin-top:33px;
+    margin-bottom: 51px;
+    background-color:#262626;
+    padding-left:28px ;
+    padding-top: 14px;
+    padding-bottom:11px;
+    margin-left: 319px;
+    /* margin-top:47; */
+    Font-family: Roboto;
+    Font-style: SemiBold;
+    Font-size: 24px;
+    Line-height:28px;
+    Vertical-align:Top;  
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#262626;
+    ;
+    border-radius: 15px;
+    /* height:30px ;
+    width: 134px;
+    /* text-align: center; */
+    /* margin-top: 12px;  */
+    margin-bottom:62px;
+    padding:10px;
+    /* padding:20px */
+
+    /* height:32px ;
+    width: 60px; */
+    /* text-align: center; */
+    margin-top: 43px;
+
+    Font-family:Poppins;
+    Font-style:SemiBold;
+    Font-size:22px;
+    Line-height:33px;
+    Line-height:100%;
+    Align:Left;
+    Vertical-align:Top;
+    color: #FFFFFF;
+}
+#link-1{
+    height:32px ;
+    width: 60px;
+}
+#link-2{
+    height:32px ;
+    width: 82px;
+}
+#link-2{
+    height:32px ;
+    width: 52px;
+}
+a{
+    display: flex;
+    text-decoration:none;
+    Font-family:Poppins;
+    Font-style:SemiBold;
+    Font-size:22px;
+    Line-height:33px;
+    align-items:Left ; 
+    color:#FFFFFF;
+    ;
+     
+    /* margin:auto;
+    /* Vertical-align:Top; */
+}
+a:hover{
+    color:#78d613;
+}
+/* header-section 
+.header-section {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
